@@ -1,0 +1,11 @@
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\bin\Release\netcoreapp3.1\Pvp_text_based_fighting.exe
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\bin\Release\netcoreapp3.1\Pvp_text_based_fighting.deps.json
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\bin\Release\netcoreapp3.1\Pvp_text_based_fighting.runtimeconfig.json
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\bin\Release\netcoreapp3.1\Pvp_text_based_fighting.runtimeconfig.dev.json
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\bin\Release\netcoreapp3.1\Pvp_text_based_fighting.dll
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\bin\Release\netcoreapp3.1\Pvp_text_based_fighting.pdb
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\obj\Release\netcoreapp3.1\Pvp_text_based_fighting.csprojAssemblyReference.cache
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\obj\Release\netcoreapp3.1\Pvp_text_based_fighting.AssemblyInfoInputs.cache
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\obj\Release\netcoreapp3.1\Pvp_text_based_fighting.AssemblyInfo.cs
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\obj\Release\netcoreapp3.1\Pvp_text_based_fighting.dll
+C:\Users\s208066\source\repos\Pvp_text_based_fighting\Pvp_text_based_fighting\obj\Release\netcoreapp3.1\Pvp_text_based_fighting.pdb
